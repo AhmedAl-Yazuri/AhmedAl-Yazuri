@@ -1,6 +1,6 @@
 # Ahmed Al-Yazuri
 
-** Data Engineer | AI/ML Enthusiast |Full-Stack Developer**
+**Data Engineer | AI/ML Enthusiast |Full-Stack Developer**
 
 Welcome to my GitHub profile! I'm passionate about  working with data systems, and exploring artificial intelligence. Here you'll find my projects spanning web development, data engineering, and AI systems,building scalable applications.
 
