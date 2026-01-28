@@ -1,18 +1,18 @@
 # Ahmed Al-Yazuri
 
-**Full-Stack Developer | Data Engineer | AI/ML Enthusiast**
+** Data Engineer | AI/ML Enthusiast |Full-Stack Developer**
 
-Welcome to my GitHub profile! I'm passionate about building scalable applications, working with data systems, and exploring artificial intelligence. Here you'll find my projects spanning web development, data engineering, and AI systems.
+Welcome to my GitHub profile! I'm passionate about  working with data systems, and exploring artificial intelligence. Here you'll find my projects spanning web development, data engineering, and AI systems,building scalable applications.
 
 ---
 
 ## 🚀 About Me
 
 I'm a dedicated software developer with expertise in:
-- **Full-Stack Web Development** (React, Node.js, Express)
 - **Data Engineering & Analytics** (Python, PostgreSQL, ETL)
 - **Geospatial Systems & GIS** (Decision Support Systems)
 - **AI & Observability** (AI Agents, Monitoring Systems)
+- **Full-Stack Web Development** (React, Node.js, Express)
 
 I believe in writing clean, maintainable code and creating solutions that make a real impact.
 
@@ -20,14 +20,6 @@ I believe in writing clean, maintainable code and creating solutions that make a
 
 ## 💼 Featured Projects
 
-### 🏪 Web Supermarket
-A comprehensive full-stack web application for supermarket management with product catalog, inventory, sales tracking, and admin dashboard.
-
-**Tech Stack:** React • Node.js • Express • PostgreSQL • Recharts
-
-[View Repository](https://github.com/AhmedAl-Yazuri/Web_Supermarket)
-
----
 
 ### 📊 Retail Insights Data Warehouse
 A professional data warehouse system for retail sales analytics with ETL pipelines, data modeling, and statistical analysis.
@@ -53,6 +45,15 @@ AI-enhanced geospatial decision support system for post-conflict reconstruction 
 **Tech Stack:** Python • GIS • Geospatial Analysis • Machine Learning • Decision Support
 
 [View Repository](https://github.com/AhmedAl-Yazuri/-Gaza-Strip-Reconstruction-Decision-Support-System)
+
+---
+
+### 🏪 Web Supermarket
+A comprehensive full-stack web application for supermarket management with product catalog, inventory, sales tracking, and admin dashboard.
+
+**Tech Stack:** React • Node.js • Express • PostgreSQL • Recharts
+
+[View Repository](https://github.com/AhmedAl-Yazuri/Web_Supermarket)
 
 ---
 
@@ -107,8 +108,9 @@ AI-enhanced geospatial decision support system for post-conflict reconstruction 
 I'm always interested in collaborating on interesting projects and discussing new ideas. Feel free to reach out!
 
 - **GitHub:** [@AhmedAl-Yazuri](https://github.com/AhmedAl-Yazuri)
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** ahmedalyazuri@gmail.com
+
+- **LinkedIn:** https://www.linkedin.com/in/ahmed-alyazuri/
 
 ---
 
