@@ -1,4 +1,4 @@
-# 👋 مرحباً، أنا أحمد اليازوري | Hi, I'm Ahmed Al-Yazuri
+# 👋 Hi, I'm Ahmed Al-Yazuri
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Data+Engineer;AI+/+ML+Enthusiast;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
@@ -6,15 +6,13 @@
 
 ---
 
-### 🚀 نبذة عني | About Me
-
-أنا مهندس برمجيات متخصص في **هندسة البيانات** و**الذكاء الاصطناعي**، أمتلك شغفاً كبيراً لبناء أنظمة بيانات قابلة للتوسع وحلول ذكية تساهم في حل المشكلات الواقعية. أجمع بين مهارات التطوير الشامل (Full-Stack) والتحليل العميق للبيانات.
+### 🚀 About Me
 
 I'm a Software Engineer specializing in **Data Engineering** and **Artificial Intelligence**. I have a deep passion for building scalable data systems and intelligent solutions that solve real-world problems. I bridge the gap between Full-Stack development and deep data analysis.
 
 ---
 
-### 🛠️ المهارات التقنية | Technical Skills
+### 🛠️ Technical Skills
 
 <table align="center">
   <tr>
@@ -59,27 +57,35 @@ I'm a Software Engineer specializing in **Data Engineering** and **Artificial In
 
 ---
 
-### 🌟 المشاريع المميزة | Featured Projects
+### 🌟 Featured Projects
 
 #### 📊 [Retail Insights Data Warehouse](https://github.com/AhmedAl-Yazuri/Retail-InsightsDataWarehouse)
-نظام متكامل لمستودع بيانات مبيعات التجزئة، يشمل خطوط أنابيب ETL، ونمذجة البيانات، وتحليلات إحصائية متقدمة.
-*A comprehensive data warehouse for retail analytics, featuring ETL pipelines and advanced data modeling.*
+A comprehensive data warehouse system for retail sales analytics with ETL pipelines, data modeling, and advanced statistical analysis.
 
 #### 🤖 [Observability for AI Agents](https://github.com/AhmedAl-Yazuri/Observability-for-AI-Agents)
-تطوير نظام لمراقبة وتتبع أداء وكلاء الذكاء الاصطناعي باستخدام CrewAI و AgentOps لضمان الشفافية والكفاءة.
-*Monitoring and tracking system for AI agents using CrewAI and AgentOps.*
+Development of a monitoring and tracking system for AI agents using CrewAI and AgentOps to ensure transparency and efficiency.
 
 #### 🌍 [Gaza Reconstruction DSS](https://github.com/AhmedAl-Yazuri/-Gaza-Strip-Reconstruction-Decision-Support-System)
-نظام دعم قرار مكاني معزز بالذكاء الاصطناعي للتخطيط لإعادة إعمار غزة باستخدام تقنيات GIS وتعلم الآلة.
-*AI-enhanced geospatial DSS for post-conflict reconstruction planning.*
+An AI-enhanced geospatial decision support system for post-conflict reconstruction planning using GIS and machine learning techniques.
 
 #### 🏪 [Web Supermarket](https://github.com/AhmedAl-Yazuri/Web_Supermarket)
-تطبيق ويب شامل لإدارة السوبر ماركت (مخزون، مبيعات، لوحة تحكم) مبني باستخدام React و Node.js.
-*Full-stack supermarket management system built with React and Node.js.*
+A comprehensive full-stack web application for supermarket management (inventory, sales, admin dashboard) built with React and Node.js.
+
+#### 📰 [Arabic Fake News Detector](https://github.com/AhmedAl-Yazuri/Arabic-Fake-News-Detector)
+An advanced NLP project for detecting fake news in Arabic, showcasing skills in machine learning and natural language processing.
+
+#### 📸 [QR Code Detector](https://github.com/AhmedAl-Yazuri/qr-code-detector)
+A practical application demonstrating computer vision skills for detecting and decoding QR codes.
+
+#### ☀️ [Solar Shop App](https://github.com/AhmedAl-Yazuri/solar-shop-app)
+A full-stack mobile application for managing a solar and electrical tools shop, including product, sales, and user management, with offline support.
+
+#### 🧼 [Bath Soap Household Analysis](https://github.com/AhmedAl-Yazuri/bath-soap-household-analysis)
+A data analysis project focused on household consumption patterns for bath soap, demonstrating data extraction and insight generation skills.
 
 ---
 
-### 📊 إحصائيات GitHub | GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedAl-Yazuri&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" />
@@ -93,7 +99,7 @@ I'm a Software Engineer specializing in **Data Engineering** and **Artificial In
 
 ---
 
-### 📫 تواصل معي | Let's Connect
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-alyazuri/">
@@ -105,5 +111,5 @@ I'm a Software Engineer specializing in **Data Engineering** and **Artificial In
 </p>
 
 <p align="center">
-  <i>"نحن لا نبني البرمجيات فقط، نحن نبني حلولاً للمستقبل"</i>
+  <i>"We don't just build software, we build solutions for the future."</i>
 </p>
