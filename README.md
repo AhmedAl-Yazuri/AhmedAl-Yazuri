@@ -32,44 +32,24 @@ Tackling global challenges through transformative AI solutions
 
 ### 🛠️ Skills & Expertise
 
-<table align="center">
-  <tr>
-    <td align="center" width="150"><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><strong>Frameworks & Libraries</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><strong>Key Skills</strong></td>
-    <td>
-      Machine Learning: Regression, Classification, Clustering, Time Series Forecasting, Scikit-learn, TensorFlow<br>
-      Deep Learning: Neural Networks, Computer Vision, LLM-based Applications<br>
-      NLP: Text Classification, Sentiment Analysis, Web Scraping<br>
-      Data Visualization: Dashboards, Business Intelligence Tools<br>
-      Cloud Platforms: AWS, Google Cloud (Example, can be updated if specific platforms are used)
-    </td>
-  </tr>
-</table>
+**Languages:** Python, SQL, JavaScript (React), HTML, CSS, C++
+
+**AI / ML:** LLMs, RAG, LangChain, NLP, Deep Learning, Machine Learning, Model Evaluation, Geospatial AI, TensorFlow, Scikit-learn
+
+**Backend:** FastAPI, PostgreSQL, MySQL, FAISS, ChromaDB, REST APIs, JWT Authentication
+
+**Frontend:** React, HTML, CSS, JavaScript
+
+**Data & BI:** Power BI, Pandas, NumPy, Streamlit, ETL Pipelines, Data Warehousing, Statistical Analysis
+
+**DevOps & Tools:** Git, GitHub, Docker, Jupyter Notebook, Kaggle
+
+**Key Skills:**
+*   Machine learning: Regression, classification, clustering, time series forecasting
+*   Deep learning: Neural networks, computer vision, LLM-based applications
+*   NLP: Text classification, sentiment analysis, web scraping for text data
+*   Data Visualization: Dashboards, business intelligence tools
+*   Cloud Platforms: AWS, Google Cloud (Example, can be updated if specific platforms are used)
 
 ---
 
